@@ -38,10 +38,7 @@
 
 <h4>Install project</h4>
 
-```
-git clone https://github.com/Fernanda-Kipper/text-editor.git
-npm install
-```
+
 
 <h4>Environment Variables</h4>
 
@@ -78,10 +75,7 @@ To get these values you need to create an Account on [HyGraph](https://app.hygra
 
 If you want to contribute, clone this repo, create your work branch and get your hands dirty!
 
-```bash
-git clone https://github.com/Fernanda-Kipper/text-editor.git
-git checkout -b feature/NAME
-```
+
 
  At the end, open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
