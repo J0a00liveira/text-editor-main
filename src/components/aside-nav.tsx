@@ -10,6 +10,7 @@ import { RoundButton } from './buttons/round-button'
 import { When } from './when'
 import { ModalNewFile } from './modal-new-file'
 
+
 const Aside = styled.aside`
     padding: 48px 0px;
 
